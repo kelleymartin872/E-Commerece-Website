@@ -1,0 +1,19 @@
+1. Import Browser Router and bootstrap 
+2.Create Components
+3. Setup Header Component
+4.Create login signup  and cart Button
+5.Create HomePage
+6.Create Product Component 
+7.Create About Component
+8.Create Contact Page
+9.Product Detail Page
+10.Now Handle Add to cart btn
+11.To change the text of the Cart Use Hook
+12.Now we Add the product to Cart
+13.Use Redux to add Cart Product
+14.In action we tell what we want
+15.In reducer we Tell how it works
+16.Now we add rootreducer 
+17.Now create a Store
+18.Now import them main to index.js
+19.Now show the nuumber of item in cart btn
